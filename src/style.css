@@ -156,3 +156,13 @@ h1 {
     padding: 1rem 1.5rem;
   }
 }
+
+.footer {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.link {
+  color: var(--primary-red);
+  text-decoration: none;
+}
